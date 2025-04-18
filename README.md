@@ -1,2 +1,2 @@
 # cheonan-senior-welfare-analysis
-A data analysis project submitted to a city public data contest, focusing on the accessibility and distribution of shared facilities for the elderly in Cheonan City.
+This project analyzes the distribution and effectiveness of shared senior facilities using public data from Cheonan City. The analysis aimed to provide actionable insights for better policy planning and infrastructure allocation.
